@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+socrata_token.py
+*.csv
 
 # C extensions
 *.so

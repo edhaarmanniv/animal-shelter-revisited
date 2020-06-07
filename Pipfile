@@ -4,6 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pre-commit = "*"
+black = "*"
+pylint = "*"
 
 [packages]
 pandas = "*"
@@ -11,6 +14,7 @@ ipykernel = "*"
 numpy = "*"
 requests = "*"
 black = "*"
+pre-commit = "*"
 
 [requires]
 python_version = "3.7"
