@@ -1,3 +1,7 @@
+"""
+functions for querying Austin Public Data with requests (avoiding Socrata and sodapy)
+"""
+
 import pandas as pd
 import requests
 
